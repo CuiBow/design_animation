@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="water_ripples_text">水波纹效果</string>
+    <string name="Expose">揭露效果</string>
+    <string name="expose_visible">显示</string>
+    <string name="expose_gone">隐藏</string>
+    <string name="operational_behavior">定制操作行为转换</string>
+    <string name="curve_movement">曲线运动</string>
+    <string name="view_changes">为视图状态改变添加动画</string>
+
+
+</resources>

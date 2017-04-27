@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="myCircleView">
+
+            <attr name="myView_circle_width" format="dimension"></attr>
+            <attr name="myView_large_textsize" format="dimension"></attr>
+            <attr name="myView_small_textsize" format="dimension"></attr>
+            <attr name="myView_circle_padding" format="dimension"></attr>
+
+           <attr name="myView_circle_color" format="color"></attr>
+           <attr name="myView_path_color" format="color"></attr>
+           <attr name="myView_text_color" format="color"></attr>
+
+
+          <attr name="duration_time" format="integer"></attr>
+          <attr name="circle_text" format="string"></attr>
+    </declare-styleable>
+</resources>
